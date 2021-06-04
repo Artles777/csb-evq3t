@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,IAAA,EAAA,EAAA,QAAA,wBAEA,SAAA,EAAA,GAAA,OAAA,GAAA,EAAA,WAAA,EAAA,CAAA,QAAA,GAAAA,QAAQC,KAAI,EAAU,EAAA,SAAA","file":"src.81bf9e8a.js","sourceRoot":"..","sourcesContent":["import palindrom from \"./tasks/1_palindrom\";\n\nconsole.log(palindrom(\"aaBBaa\"));\n"]}
